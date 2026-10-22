@@ -56,8 +56,6 @@ The proposed workflow is:
 7. **Response generation:** Use the retrieved context to formulate a response.
 8. **Response delivery:** Return the response to the user.
 
-An architecture diagram will be added as the design is finalized.
-
 ## Current Progress
 
 ### Week 1 — Research and Design
@@ -105,7 +103,7 @@ ai-query-resolution-system/
 └── tests/
 ```
 
-This represents the intended structure. Add files and folders as they are created; do not list unimplemented components as completed deliverables.
+This represents the intended structure.
 
 ## Getting Started
 
